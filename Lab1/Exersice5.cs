@@ -12,6 +12,7 @@ namespace TongHopLab
                 result *= i;
                 Console.WriteLine($"factorials {i} = {result}");
             }
+            
 
             
         }
