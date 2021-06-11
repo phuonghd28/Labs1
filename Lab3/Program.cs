@@ -9,17 +9,29 @@ namespace Lab3
     {
         public static void Main(string[] args)
         {
-            /*var atom = new Atom();
-            atom.Accept();
-            atom.Display()*/;
+            /*var atoms = new Atom[10];
+            Console.WriteLine("Atomic Information");
+            Console.WriteLine("----------------------");
+            var count = 0;
+            for (int i = 0; i < 10; i++)
+            {
+                var atom = new Atom();
+                var result = atom.Accept();
+                if (!result || atom.Number == 0)
+                {
+                    break;
+                }
 
-            /*var employee = new Employee("Phuong","Hoang","826 Ton Duc Thang", 3, 10000000);
-            Console.WriteLine(employee.ToString());
-            Console.WriteLine("Enter percentage:");
-            var percentage = int.Parse(Console.ReadLine());
-            Console.WriteLine(employee.CalculBonus(percentage));
-            ;*/
+                atoms[i] = atom;
+                count++;
+            }
 
+            Console.WriteLine("No Sym Name Weight");
+            Console.WriteLine("---------------------------");
+            for (int i = 0; i < count; i++)
+            {
+                atoms[i].Display();
+            }*/
         }
     }
 }
