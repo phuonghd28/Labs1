@@ -51,6 +51,7 @@ namespace Lab7
                 _list[id].Name = name;
                 _list[id].Age = age;
                 _list[id].Salary = salary;
+                Console.WriteLine("Update success");
             }
             else
             {
@@ -66,6 +67,7 @@ namespace Lab7
             if (_list.ContainsKey(id))
             {
                 _list.Remove(id);
+                Console.WriteLine("Delete success");
             }
             else
             {
