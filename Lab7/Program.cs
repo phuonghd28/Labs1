@@ -25,7 +25,7 @@ namespace Lab7
                         employeeManager.Create();
                         break;
                     case 2:
-                        employeeManager.FindAll();
+                        employeeManager.Display();
                         break;
                     case 3:
                         employeeManager.Update();

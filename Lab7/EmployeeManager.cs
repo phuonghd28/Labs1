@@ -25,7 +25,7 @@ namespace Lab7
             });
         }
 
-        public void FindAll()
+        public void Display()
         {
             Console.WriteLine("--------------List Employee--------------");
             foreach (var list in _list)
