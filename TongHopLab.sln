@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7", "Lab7\Lab7.csproj", "{A13AE711-639B-431F-8C7D-58B5A6125DFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionCsharp", "ReflectionCsharp\ReflectionCsharp.csproj", "{BA4179D7-2EA4-491F-972E-FE52E74BD055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericType", "GenericType\GenericType.csproj", "{2B28AB97-D908-475E-9A45-1347EB8BC0A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{A13AE711-639B-431F-8C7D-58B5A6125DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A13AE711-639B-431F-8C7D-58B5A6125DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A13AE711-639B-431F-8C7D-58B5A6125DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4179D7-2EA4-491F-972E-FE52E74BD055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4179D7-2EA4-491F-972E-FE52E74BD055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4179D7-2EA4-491F-972E-FE52E74BD055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4179D7-2EA4-491F-972E-FE52E74BD055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B28AB97-D908-475E-9A45-1347EB8BC0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B28AB97-D908-475E-9A45-1347EB8BC0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B28AB97-D908-475E-9A45-1347EB8BC0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B28AB97-D908-475E-9A45-1347EB8BC0A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Dell\RiderProjects\TongHopLab\ReflectionCsharp\bin\Debug\ReflectionCsharp.exe
+C:\Users\Dell\RiderProjects\TongHopLab\ReflectionCsharp\bin\Debug\ReflectionCsharp.pdb
+C:\Users\Dell\RiderProjects\TongHopLab\ReflectionCsharp\obj\Debug\ReflectionCsharp.csprojAssemblyReference.cache
+C:\Users\Dell\RiderProjects\TongHopLab\ReflectionCsharp\obj\Debug\ReflectionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\TongHopLab\ReflectionCsharp\obj\Debug\ReflectionCsharp.exe
+C:\Users\Dell\RiderProjects\TongHopLab\ReflectionCsharp\obj\Debug\ReflectionCsharp.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\RiderProjects\TongHopLab\GenericType\bin\Debug\GenericType.exe
+C:\Users\Dell\RiderProjects\TongHopLab\GenericType\bin\Debug\GenericType.pdb
+C:\Users\Dell\RiderProjects\TongHopLab\GenericType\obj\Debug\GenericType.csprojAssemblyReference.cache
+C:\Users\Dell\RiderProjects\TongHopLab\GenericType\obj\Debug\GenericType.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\TongHopLab\GenericType\obj\Debug\GenericType.exe
+C:\Users\Dell\RiderProjects\TongHopLab\GenericType\obj\Debug\GenericType.pdb
